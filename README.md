@@ -1,2 +1,2 @@
 # HangmanGame
-Hangman game
+Hangman game developed in C++
